@@ -1,0 +1,22 @@
+body {
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+}
+h3 {
+	font-style: italic;
+}
+table, th, td {
+	border: 1px solid black;
+    color: red;
+    margin: 0 auto;
+	background-color:blue;
+	background-color: #e6e6e6;
+	text-align: center;
+}
+#tabulka{
+	    background-color: #e6e6e6;
+}
+
+main {
+			text-align: left-side;
+}

@@ -1,0 +1,49 @@
+body {
+    background-image: url("blue.jpg");
+    background-color: #cccccc;
+}
+h3 {
+	font-style: italic;
+}
+table, th, td {
+	border: 1px solid black;
+    color: yellow;
+    margin: 0 auto;
+	background-color:#3399ff;
+}
+.secondDiv{
+		float:left;
+		width: 80%;
+}
+.firstDiv{
+		float:left;
+		width: 20%;
+}
+.clear{
+clear:both;	
+}
+#tabulka{
+		text-align: center;
+}
+section {
+	margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+#PracovneSkusenosti{
+	margin-bottom:20rem;
+}
+#Vzdelanie{
+	margin-top:30rem;
+}
+p{
+	margin-left: 10%;
+}
+li{
+	margin-left: 20%;
+}
+.myFooter{
+	text-align:center;
+	margin: 0 auto;
+}
